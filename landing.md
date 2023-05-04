@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Example Landing Page
-subtitle: This is an example landing page with callouts
+title: Welcome to the METRICS Lab at Mount Holyoke College
+subtitle: We are so excited to learn together!
 hero_height: is-large
 hero_link: /page-1/
 hero_link_text: Example Call To Action
